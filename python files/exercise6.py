@@ -11,7 +11,7 @@ def divisible_by_5(list_numbers):
   return new_list    
 
 divisible_numbers = divisible_by_5(list1)
-print(divisible_numbers)  
+print(divisible_numbers)  # Output: [10, 20, 50, 55, 100]
 
 
 # Notes
